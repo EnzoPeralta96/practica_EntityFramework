@@ -1,0 +1,16 @@
+C:\Users\enzo_\OneDrive\Desktop\Taller2\EntityFramework\practica_EntityFramework\Wpm.Dal\bin\Debug\net8.0\Wpm.Dal.deps.json
+C:\Users\enzo_\OneDrive\Desktop\Taller2\EntityFramework\practica_EntityFramework\Wpm.Dal\bin\Debug\net8.0\Wpm.Dal.dll
+C:\Users\enzo_\OneDrive\Desktop\Taller2\EntityFramework\practica_EntityFramework\Wpm.Dal\bin\Debug\net8.0\Wpm.Dal.pdb
+C:\Users\enzo_\OneDrive\Desktop\Taller2\EntityFramework\practica_EntityFramework\Wpm.Dal\bin\Debug\net8.0\Wpm.Domain.dll
+C:\Users\enzo_\OneDrive\Desktop\Taller2\EntityFramework\practica_EntityFramework\Wpm.Dal\bin\Debug\net8.0\Wpm.Domain.pdb
+C:\Users\enzo_\OneDrive\Desktop\Taller2\EntityFramework\practica_EntityFramework\Wpm.Dal\obj\Debug\net8.0\Wpm.Dal.csproj.AssemblyReference.cache
+C:\Users\enzo_\OneDrive\Desktop\Taller2\EntityFramework\practica_EntityFramework\Wpm.Dal\obj\Debug\net8.0\Wpm.Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enzo_\OneDrive\Desktop\Taller2\EntityFramework\practica_EntityFramework\Wpm.Dal\obj\Debug\net8.0\Wpm.Dal.AssemblyInfoInputs.cache
+C:\Users\enzo_\OneDrive\Desktop\Taller2\EntityFramework\practica_EntityFramework\Wpm.Dal\obj\Debug\net8.0\Wpm.Dal.AssemblyInfo.cs
+C:\Users\enzo_\OneDrive\Desktop\Taller2\EntityFramework\practica_EntityFramework\Wpm.Dal\obj\Debug\net8.0\Wpm.Dal.csproj.CoreCompileInputs.cache
+C:\Users\enzo_\OneDrive\Desktop\Taller2\EntityFramework\practica_EntityFramework\Wpm.Dal\obj\Debug\net8.0\Wpm.Dal.sourcelink.json
+C:\Users\enzo_\OneDrive\Desktop\Taller2\EntityFramework\practica_EntityFramework\Wpm.Dal\obj\Debug\net8.0\Wpm.Dal.csproj.Up2Date
+C:\Users\enzo_\OneDrive\Desktop\Taller2\EntityFramework\practica_EntityFramework\Wpm.Dal\obj\Debug\net8.0\Wpm.Dal.dll
+C:\Users\enzo_\OneDrive\Desktop\Taller2\EntityFramework\practica_EntityFramework\Wpm.Dal\obj\Debug\net8.0\refint\Wpm.Dal.dll
+C:\Users\enzo_\OneDrive\Desktop\Taller2\EntityFramework\practica_EntityFramework\Wpm.Dal\obj\Debug\net8.0\Wpm.Dal.pdb
+C:\Users\enzo_\OneDrive\Desktop\Taller2\EntityFramework\practica_EntityFramework\Wpm.Dal\obj\Debug\net8.0\ref\Wpm.Dal.dll

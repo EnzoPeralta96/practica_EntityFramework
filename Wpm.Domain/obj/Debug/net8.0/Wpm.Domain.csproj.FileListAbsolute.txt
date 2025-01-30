@@ -1,0 +1,12 @@
+C:\Users\enzo_\OneDrive\Desktop\Taller2\EntityFramework\practica_EntityFramework\Wpm.Domain\bin\Debug\net8.0\Wpm.Domain.deps.json
+C:\Users\enzo_\OneDrive\Desktop\Taller2\EntityFramework\practica_EntityFramework\Wpm.Domain\bin\Debug\net8.0\Wpm.Domain.dll
+C:\Users\enzo_\OneDrive\Desktop\Taller2\EntityFramework\practica_EntityFramework\Wpm.Domain\bin\Debug\net8.0\Wpm.Domain.pdb
+C:\Users\enzo_\OneDrive\Desktop\Taller2\EntityFramework\practica_EntityFramework\Wpm.Domain\obj\Debug\net8.0\Wpm.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enzo_\OneDrive\Desktop\Taller2\EntityFramework\practica_EntityFramework\Wpm.Domain\obj\Debug\net8.0\Wpm.Domain.AssemblyInfoInputs.cache
+C:\Users\enzo_\OneDrive\Desktop\Taller2\EntityFramework\practica_EntityFramework\Wpm.Domain\obj\Debug\net8.0\Wpm.Domain.AssemblyInfo.cs
+C:\Users\enzo_\OneDrive\Desktop\Taller2\EntityFramework\practica_EntityFramework\Wpm.Domain\obj\Debug\net8.0\Wpm.Domain.csproj.CoreCompileInputs.cache
+C:\Users\enzo_\OneDrive\Desktop\Taller2\EntityFramework\practica_EntityFramework\Wpm.Domain\obj\Debug\net8.0\Wpm.Domain.sourcelink.json
+C:\Users\enzo_\OneDrive\Desktop\Taller2\EntityFramework\practica_EntityFramework\Wpm.Domain\obj\Debug\net8.0\Wpm.Domain.dll
+C:\Users\enzo_\OneDrive\Desktop\Taller2\EntityFramework\practica_EntityFramework\Wpm.Domain\obj\Debug\net8.0\refint\Wpm.Domain.dll
+C:\Users\enzo_\OneDrive\Desktop\Taller2\EntityFramework\practica_EntityFramework\Wpm.Domain\obj\Debug\net8.0\Wpm.Domain.pdb
+C:\Users\enzo_\OneDrive\Desktop\Taller2\EntityFramework\practica_EntityFramework\Wpm.Domain\obj\Debug\net8.0\ref\Wpm.Domain.dll
