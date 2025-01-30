@@ -1,0 +1,16 @@
+C:\Users\enzo_\OneDrive\Desktop\Taller2\EntityFramework\practica_EntityFramework\Wpm.Dal.Semilla\bin\Debug\net8.0\Wpm.Dal.Semilla.deps.json
+C:\Users\enzo_\OneDrive\Desktop\Taller2\EntityFramework\practica_EntityFramework\Wpm.Dal.Semilla\bin\Debug\net8.0\Wpm.Dal.Semilla.dll
+C:\Users\enzo_\OneDrive\Desktop\Taller2\EntityFramework\practica_EntityFramework\Wpm.Dal.Semilla\bin\Debug\net8.0\Wpm.Dal.Semilla.pdb
+C:\Users\enzo_\OneDrive\Desktop\Taller2\EntityFramework\practica_EntityFramework\Wpm.Dal.Semilla\bin\Debug\net8.0\Wpm.Domain.dll
+C:\Users\enzo_\OneDrive\Desktop\Taller2\EntityFramework\practica_EntityFramework\Wpm.Dal.Semilla\bin\Debug\net8.0\Wpm.Domain.pdb
+C:\Users\enzo_\OneDrive\Desktop\Taller2\EntityFramework\practica_EntityFramework\Wpm.Dal.Semilla\obj\Debug\net8.0\Wpm.Dal.Semilla.csproj.AssemblyReference.cache
+C:\Users\enzo_\OneDrive\Desktop\Taller2\EntityFramework\practica_EntityFramework\Wpm.Dal.Semilla\obj\Debug\net8.0\Wpm.Dal.Semilla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enzo_\OneDrive\Desktop\Taller2\EntityFramework\practica_EntityFramework\Wpm.Dal.Semilla\obj\Debug\net8.0\Wpm.Dal.Semilla.AssemblyInfoInputs.cache
+C:\Users\enzo_\OneDrive\Desktop\Taller2\EntityFramework\practica_EntityFramework\Wpm.Dal.Semilla\obj\Debug\net8.0\Wpm.Dal.Semilla.AssemblyInfo.cs
+C:\Users\enzo_\OneDrive\Desktop\Taller2\EntityFramework\practica_EntityFramework\Wpm.Dal.Semilla\obj\Debug\net8.0\Wpm.Dal.Semilla.csproj.CoreCompileInputs.cache
+C:\Users\enzo_\OneDrive\Desktop\Taller2\EntityFramework\practica_EntityFramework\Wpm.Dal.Semilla\obj\Debug\net8.0\Wpm.Dal.Semilla.sourcelink.json
+C:\Users\enzo_\OneDrive\Desktop\Taller2\EntityFramework\practica_EntityFramework\Wpm.Dal.Semilla\obj\Debug\net8.0\Wpm.Dal..91A73D64.Up2Date
+C:\Users\enzo_\OneDrive\Desktop\Taller2\EntityFramework\practica_EntityFramework\Wpm.Dal.Semilla\obj\Debug\net8.0\Wpm.Dal.Semilla.dll
+C:\Users\enzo_\OneDrive\Desktop\Taller2\EntityFramework\practica_EntityFramework\Wpm.Dal.Semilla\obj\Debug\net8.0\refint\Wpm.Dal.Semilla.dll
+C:\Users\enzo_\OneDrive\Desktop\Taller2\EntityFramework\practica_EntityFramework\Wpm.Dal.Semilla\obj\Debug\net8.0\Wpm.Dal.Semilla.pdb
+C:\Users\enzo_\OneDrive\Desktop\Taller2\EntityFramework\practica_EntityFramework\Wpm.Dal.Semilla\obj\Debug\net8.0\ref\Wpm.Dal.Semilla.dll

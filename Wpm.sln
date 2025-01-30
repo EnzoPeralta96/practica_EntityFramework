@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wpm.Domain", "Wpm.Domain\Wp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wpm.Dal", "Wpm.Dal\Wpm.Dal.csproj", "{A675BEDA-486F-4E38-A351-0546452340E1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wpm.Client.Consultas", "Wpm.Client.Consultas\Wpm.Client.Consultas.csproj", "{6CA3CEB8-35E6-4117-80C9-5382BC128B2C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wpm.Dal.Semilla", "Wpm.Dal.Semilla\Wpm.Dal.Semilla.csproj", "{852C479D-4E4F-454A-823A-B6505E79A622}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +34,13 @@ Global
 		{A675BEDA-486F-4E38-A351-0546452340E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A675BEDA-486F-4E38-A351-0546452340E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A675BEDA-486F-4E38-A351-0546452340E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CA3CEB8-35E6-4117-80C9-5382BC128B2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CA3CEB8-35E6-4117-80C9-5382BC128B2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CA3CEB8-35E6-4117-80C9-5382BC128B2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CA3CEB8-35E6-4117-80C9-5382BC128B2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{852C479D-4E4F-454A-823A-B6505E79A622}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{852C479D-4E4F-454A-823A-B6505E79A622}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{852C479D-4E4F-454A-823A-B6505E79A622}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{852C479D-4E4F-454A-823A-B6505E79A622}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

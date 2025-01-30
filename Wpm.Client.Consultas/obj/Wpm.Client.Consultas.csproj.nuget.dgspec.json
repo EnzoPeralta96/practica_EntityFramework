@@ -1,0 +1,209 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\enzo_\\OneDrive\\Desktop\\Taller2\\EntityFramework\\practica_EntityFramework\\Wpm.Client.Consultas\\Wpm.Client.Consultas.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\enzo_\\OneDrive\\Desktop\\Taller2\\EntityFramework\\practica_EntityFramework\\Wpm.Client.Consultas\\Wpm.Client.Consultas.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\enzo_\\OneDrive\\Desktop\\Taller2\\EntityFramework\\practica_EntityFramework\\Wpm.Client.Consultas\\Wpm.Client.Consultas.csproj",
+        "projectName": "Wpm.Client.Consultas",
+        "projectPath": "C:\\Users\\enzo_\\OneDrive\\Desktop\\Taller2\\EntityFramework\\practica_EntityFramework\\Wpm.Client.Consultas\\Wpm.Client.Consultas.csproj",
+        "packagesPath": "C:\\Users\\enzo_\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\enzo_\\OneDrive\\Desktop\\Taller2\\EntityFramework\\practica_EntityFramework\\Wpm.Client.Consultas\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\enzo_\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\enzo_\\OneDrive\\Desktop\\Taller2\\EntityFramework\\practica_EntityFramework\\Wpm.Dal.Semilla\\Wpm.Dal.Semilla.csproj": {
+                "projectPath": "C:\\Users\\enzo_\\OneDrive\\Desktop\\Taller2\\EntityFramework\\practica_EntityFramework\\Wpm.Dal.Semilla\\Wpm.Dal.Semilla.csproj"
+              },
+              "C:\\Users\\enzo_\\OneDrive\\Desktop\\Taller2\\EntityFramework\\practica_EntityFramework\\Wpm.Domain\\Wpm.Domain.csproj": {
+                "projectPath": "C:\\Users\\enzo_\\OneDrive\\Desktop\\Taller2\\EntityFramework\\practica_EntityFramework\\Wpm.Domain\\Wpm.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "SQLitePCLRaw.bundle_e_sqlite3": {
+              "target": "Package",
+              "version": "[2.1.11-pre20241216174303, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\enzo_\\OneDrive\\Desktop\\Taller2\\EntityFramework\\practica_EntityFramework\\Wpm.Dal.Semilla\\Wpm.Dal.Semilla.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\enzo_\\OneDrive\\Desktop\\Taller2\\EntityFramework\\practica_EntityFramework\\Wpm.Dal.Semilla\\Wpm.Dal.Semilla.csproj",
+        "projectName": "Wpm.Dal.Semilla",
+        "projectPath": "C:\\Users\\enzo_\\OneDrive\\Desktop\\Taller2\\EntityFramework\\practica_EntityFramework\\Wpm.Dal.Semilla\\Wpm.Dal.Semilla.csproj",
+        "packagesPath": "C:\\Users\\enzo_\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\enzo_\\OneDrive\\Desktop\\Taller2\\EntityFramework\\practica_EntityFramework\\Wpm.Dal.Semilla\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\enzo_\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\enzo_\\OneDrive\\Desktop\\Taller2\\EntityFramework\\practica_EntityFramework\\Wpm.Domain\\Wpm.Domain.csproj": {
+                "projectPath": "C:\\Users\\enzo_\\OneDrive\\Desktop\\Taller2\\EntityFramework\\practica_EntityFramework\\Wpm.Domain\\Wpm.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Sqlite.Core": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\enzo_\\OneDrive\\Desktop\\Taller2\\EntityFramework\\practica_EntityFramework\\Wpm.Domain\\Wpm.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\enzo_\\OneDrive\\Desktop\\Taller2\\EntityFramework\\practica_EntityFramework\\Wpm.Domain\\Wpm.Domain.csproj",
+        "projectName": "Wpm.Domain",
+        "projectPath": "C:\\Users\\enzo_\\OneDrive\\Desktop\\Taller2\\EntityFramework\\practica_EntityFramework\\Wpm.Domain\\Wpm.Domain.csproj",
+        "packagesPath": "C:\\Users\\enzo_\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\enzo_\\OneDrive\\Desktop\\Taller2\\EntityFramework\\practica_EntityFramework\\Wpm.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\enzo_\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
