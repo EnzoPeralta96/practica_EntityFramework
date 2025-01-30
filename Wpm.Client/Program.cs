@@ -1,4 +1,5 @@
-﻿using Microsoft.Extensions.Configuration;
+﻿using System.ComponentModel;
+using Microsoft.Extensions.Configuration;
 using SQLitePCL;
 using Wpm.Dal;
 using Wpm.Domain;
@@ -64,3 +65,11 @@ db.SaveChanges();
 
 Console.WriteLine("Listo");
 
+//Modifcando datos existentes.
+cati.Age = 10;
+cati.Weight = (float)19.3;
+
+gianni.Age = 8;
+gianni.Weight = (float)33.5;
+
+db.SaveChanges();
