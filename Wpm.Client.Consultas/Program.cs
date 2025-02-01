@@ -113,3 +113,64 @@ var breeds4 = db.Breeds
                 .ToList()
                 .OrderBy(br => br.SpeciesName)
                 .ThenBy(br => br.BreedName);
+
+//Ejecución de consultas SQL:
+
+/*
+FromSqlRaw sirve para hacer consultas dinamicas, es decir que,
+por ej el nombre de la columna a consultar en el WHERE sea una variable.
+Y se deberá hacer los controles de seguridad necesarios para esa columna
+y que no inyecten codigo sql.
+Por otro lado, los valores de los la columna se envian encapsulados en DbParameter.
+Ejemplo:
+var columnName = "Url"; // Si este dato viene por UI, es el que hay que controlar para
+que no venga con inyección SQL.
+var columnValue = new SqlParameter("columnValue", "http://SomeURL");
+
+var blogs = await context.Blogs
+    .FromSqlRaw($"SELECT * FROM [Blogs] WHERE {columnName} = @columnValue", columnValue)
+    .ToListAsync();
+
+*/
+var pets2 = db.Pets.FromSqlRaw("SELECT * FROM pets WHERE age > 20").ToList();
+
+Console.WriteLine("Mascotas con mas de 20 años");
+foreach (var item in pets2)
+{
+    Console.WriteLine(item.Name);
+}
+
+/*
+Esta nos sirve para que cualquier valor que enviemos
+en la consulta, no se concatene como un string, si no que 
+se mande como un valor al db, encapsulado en un DbParameter.
+De esta forma evitamos la inyección SQL.
+*/
+
+/*
+Aquí parece que enviamos "age" como un valor, pero lo FromSqlIterpolated lo mando
+como en dbParameters.
+*/
+int age = 10;
+var pets3 = db.Pets.FromSqlInterpolated($"SELECT * FROM pets WHERE age < {age}");
+
+Console.WriteLine($"Mascotas con menores de {age} años");
+foreach (var item in pets3)
+{
+    Console.WriteLine(item.Name);
+}
+
+/*
+Ejecutar store procedures:
+- Que devuelve un resultado:
+En este caso es sin parametros, por lo que podemos usar:
+    var pets = db.Pets.FromSqlRaw("GetOverweightPets").ToList();
+
+- Que no devuelve un resultado:
+Como no devuelve un resultado,no esta relacionado sobre un DbSet,
+por lo que tenemos que usar la propiedad DataBase del dbContext:
+ExecuteSqlInterpolated() -> porque enviamos un parámetro
+
+var filasAfectadas = db.Database.ExecuteSqlInterpolated($"DeleteOwner {7}");
+
+*/

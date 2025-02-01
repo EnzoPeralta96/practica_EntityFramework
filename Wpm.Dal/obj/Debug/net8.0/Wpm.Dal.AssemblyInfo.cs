@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Wpm.Dal")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b848369bc24eb62c4f738de017137365f4c5dac3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0937f178106667c93f0ad7085dbdec678f8c358e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Wpm.Dal")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Wpm.Dal")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
